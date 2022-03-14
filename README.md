@@ -37,6 +37,7 @@ Intro to python. Manipulating text. Automating writing.
 
 #### Readings for next week
 * **[A User’s Guide to Détournement](http://webcache.googleusercontent.com/search?q=cache:iq80N1p2GWsJ:www.bopsecrets.org/SI/detourn.htm+&cd=8&hl=en&ct=clnk&gl=us&client=firefox-b-1-d)**
+* **[A Long History of Generated Poetics by Everest Pipkin](https://everestpipkin.medium.com/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233)**
 * [Web Scraping Basics](https://scrapism.lav.io/web-scraping-basics/)
 
 #### Homework
@@ -152,6 +153,7 @@ Project 3 crit. Wrap-up discussion.
 * [Christian Marclay - The Clock](https://en.wikipedia.org/wiki/The_Clock_(2010_film))
 * [Golan Levin - The Secret Lives of Numbers](http://www.flong.com/projects/slon/)
 * [Mimi Onuoha](https://mimionuoha.com/)
+* [Matthew Plummer Fernandez](https://www.plummerfernandez.com/shiv-integer/)
 * [Neta Bomani](https://netabomani.com/darkmatter/)
 * [Josh Begley](https://joshbegley.com/)
 * [Angie Waller](https://angiewaller.com/)
@@ -160,6 +162,15 @@ Project 3 crit. Wrap-up discussion.
 * [Barbara Kruger](https://www.thebroad.org/art/barbara-kruger)
 * [Mark Hansen & Ben Rubin](https://www.x-traonline.org/article/mark-hansen-and-ben-rubin-listening-post)
 * [City Reliquary](https://www.cityreliquary.org/)
+* [LittleSis](https://littlesis.org/)
+* [Aaron Schwartz](http://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
+* [Sophie Calle](https://www.newyorker.com/books/under-review/sophie-calle-and-the-art-of-leaving-a-trace)
+* [James Bridle](https://jamesbridle.com/works/the-nor)
+* [Penelope Umbrico](http://www.penelopeumbrico.net/)
+* [Joana Moll](http://www.virtualwatchers.de/)
+* [MMuseum](https://www.mmuseumm.com/)
+* [Ramsey Nasser](https://nas.sr/%D8%B9%D9%83%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84-%D9%84%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%A7%D8%BA%D8%B1-the-opposite-of-occupied-is-not-vacant/)
+* [Ingrid Burrington](http://lifewinning.com/tag/places/)
 
 ## Fun and useful Python Libraries
 * [moviepy](http://zulko.github.io/moviepy/) - edit video
