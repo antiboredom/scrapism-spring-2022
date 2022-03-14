@@ -151,7 +151,14 @@ Project 3 crit. Wrap-up discussion.
 * [Allison Parrish](http://portfolio.decontextualize.com/)
 * [Christian Marclay - The Clock](https://en.wikipedia.org/wiki/The_Clock_(2010_film))
 * [Golan Levin - The Secret Lives of Numbers](http://www.flong.com/projects/slon/)
+* [Mimi Onuoha](https://mimionuoha.com/)
 * [Neta Bomani](https://netabomani.com/darkmatter/)
+* [Josh Begley](https://joshbegley.com/)
+* [Angie Waller](https://angiewaller.com/)
+* [Morehshin Allahyari](http://www.morehshin.com/)
+* [Jacqueline Wu](https://cargocollective.com/jacqswu/Artificial-Arboretum)
+* [Barbara Kruger](https://www.thebroad.org/art/barbara-kruger)
+* [Mark Hansen & Ben Rubin](https://www.x-traonline.org/article/mark-hansen-and-ben-rubin-listening-post)
 * [City Reliquary](https://www.cityreliquary.org/)
 
 ## Fun and useful Python Libraries
