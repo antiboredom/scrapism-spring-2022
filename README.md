@@ -175,6 +175,7 @@ Project 3 crit. Wrap-up discussion.
 * [Andrew Norman Wilson](http://andrewnormanwilson.com/ScanOps.html)
 * [Jil Magid](https://vimeo.com/62092355)
 * [Salome Asega](http://www.salome.zone/iyapo-repository)
+* [Library Genesis](https://libgen.is/)
 
 ## Fun and useful Python Libraries
 * [moviepy](http://zulko.github.io/moviepy/) - edit video
