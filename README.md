@@ -171,6 +171,9 @@ Project 3 crit. Wrap-up discussion.
 * [MMuseum](https://www.mmuseumm.com/)
 * [Ramsey Nasser](https://nas.sr/%D8%B9%D9%83%D8%B3-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84-%D9%84%D9%8A%D8%B3-%D8%A7%D9%84%D8%B4%D8%A7%D8%BA%D8%B1-the-opposite-of-occupied-is-not-vacant/)
 * [Ingrid Burrington](http://lifewinning.com/tag/places/)
+* [Strava Hilarity](https://www.youtube.com/watch?v=0IB8p-YpXwA)
+* [Andrew Norman Wilson](http://andrewnormanwilson.com/ScanOps.html)
+* [Jil Magid](https://vimeo.com/62092355)
 
 ## Fun and useful Python Libraries
 * [moviepy](http://zulko.github.io/moviepy/) - edit video
