@@ -101,8 +101,8 @@ Real browsers. Processing and analyzing images. Turning images into text.
 Project 2 crit. Scraping video.
 
 #### Readings for next week
-* [Face Trace by Maryam Monalisa Gharavi](https://vimeo.com/253801987?embedded=true&source=video_title&owner=6374650) 
-* [Race after Technology (introduction) by Ruha Benjamin](http://mycours.es/ems2/files/2020/09/Ruha-Benjamin-%E2%80%93-Race-After-Technology-Introduction.pdf)
+* **[Face Trace by Maryam Monalisa Gharavi](https://vimeo.com/253801987?embedded=true&source=video_title&owner=6374650)**
+* **[Race after Technology (introduction) by Ruha Benjamin](http://mycours.es/ems2/files/2020/09/Ruha-Benjamin-%E2%80%93-Race-After-Technology-Introduction.pdf)**
 
 #### Project 3 (due May 17th/19th)
 
@@ -124,20 +124,21 @@ Or, working with data (class votes).
 -->
 
 #### Readings for next week
-* [In Defense of Looting by Vicky Osterweil](https://thenewinquiry.com/in-defense-of-looting/)
-* [Seeing Like a State (Chapter 2) By James Scott](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)
+* **[In Defense of Looting by Vicky Osterweil](https://thenewinquiry.com/in-defense-of-looting/)**
+* **[Seeing Like a State (Chapter 2) By James Scott](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)**
 
 
 ### 9. May 10th / 12th
 
 Bots and running scripts over time. 
 
+---
 
 ### 10. May 17th / 19th
 
 Project 3 crit. Wrap-up discussion.
 
-
+---
 
 ## Some inspiration
 * [Jenny Odell - Satellite Collections](http://www.jennyodell.com/satellite.html)
