@@ -142,16 +142,16 @@ Project 3 crit. Wrap-up discussion.
 ---
 
 ## Some inspiration
-* [Jenny Odell - Satellite Collections](http://www.jennyodell.com/satellite.html)
+* [Jenny Odell](http://www.jennyodell.com/satellite.html)
 * [Everest Pipkin](http://everest-pipkin.com/)
-* [Ben Grosser - Facebook Demtricator](https://bengrosser.com/projects/facebook-demetricator/)
-* [Heather Dewey-Hagborg - Stranger Visions](https://deweyhagborg.com/projects/stranger-visions)
-* [Zach Blas - Face Cages](http://www.zachblas.info/works/face-cages/)
+* [Ben Grosser](https://bengrosser.com/projects/facebook-demetricator/)
+* [Heather Dewey-Hagborg](https://deweyhagborg.com/projects/stranger-visions)
+* [Zach Blas](http://www.zachblas.info/works/face-cages/)
 * [Angela Washko](https://angelawashko.com/home.html)
-* [Andrew Badr - Your World of Text](https://www.yourworldoftext.com/)
+* [Andrew Badr](https://www.yourworldoftext.com/)
 * [Allison Parrish](http://portfolio.decontextualize.com/)
-* [Christian Marclay - The Clock](https://en.wikipedia.org/wiki/The_Clock_(2010_film))
-* [Golan Levin - The Secret Lives of Numbers](http://www.flong.com/projects/slon/)
+* [Christian Marclay](https://en.wikipedia.org/wiki/The_Clock_(2010_film))
+* [Golan Levin](http://www.flong.com/projects/slon/)
 * [Mimi Onuoha](https://mimionuoha.com/)
 * [Matthew Plummer Fernandez](https://www.plummerfernandez.com/shiv-integer/)
 * [Neta Bomani](https://netabomani.com/darkmatter/)
