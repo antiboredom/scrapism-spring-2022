@@ -174,6 +174,7 @@ Project 3 crit. Wrap-up discussion.
 * [Strava Hilarity](https://www.youtube.com/watch?v=0IB8p-YpXwA)
 * [Andrew Norman Wilson](http://andrewnormanwilson.com/ScanOps.html)
 * [Jil Magid](https://vimeo.com/62092355)
+* [Salome Asega](http://www.salome.zone/iyapo-repository)
 
 ## Fun and useful Python Libraries
 * [moviepy](http://zulko.github.io/moviepy/) - edit video
