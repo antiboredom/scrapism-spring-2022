@@ -178,6 +178,11 @@ Project 3 crit. Wrap-up discussion.
 * [Library Genesis](https://libgen.is/)
 
 ## Fun and useful Python Libraries
+* [requests](http://docs.python-requests.org/en/master/) - easy http requests
+* [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - html parsing
+* [playwright](https://playwright.dev/python/) - automating real browsers
+* [curlconverter](https://curlconverter.com/) - easily convert curl to requests
+* [scrapy](https://scrapy.org/) - scraping framework
 * [moviepy](http://zulko.github.io/moviepy/) - edit video
 * [vidpy](http://antiboredom.github.com/vidpy/) - edit video (my library)
 * [videogrep](http://antiboredom.github.com/videogrep/) - make supercuts (my library)
@@ -186,7 +191,6 @@ Project 3 crit. Wrap-up discussion.
 * [flask](http://flask.pocoo.org/) - web server
 * [twython](https://github.com/ryanmcgrath/twython) - use the twitter api
 * [spacy](https://github.com/ryanmcgrath/twython) - natural language processing
-* [requests](http://docs.python-requests.org/en/master/) - easy http requests
 * [envelopes](http://tomekwojcik.github.io/envelopes/) - send email
 * [opencv](http://opencv.org/) - computer vision
 * [asciimatics](https://github.com/peterbrittain/asciimatics) - text-based interfaces and animation
