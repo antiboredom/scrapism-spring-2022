@@ -177,6 +177,7 @@ Project 3 crit. Wrap-up discussion.
 * [Salome Asega](http://www.salome.zone/iyapo-repository)
 * [Library Genesis](https://libgen.is/)
 * [The Markup](https://themarkup.org/prediction-bias/2021/12/02/crime-prediction-software-promised-to-be-free-of-biases-new-data-shows-it-perpetuates-them)
+* [it’s not my memory of it](https://vimeo.com/1863049)
 
 ## Fun and useful Python Libraries
 * [requests](http://docs.python-requests.org/en/master/) - easy http requests
