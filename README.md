@@ -198,3 +198,16 @@ Project 3 crit. Wrap-up discussion.
 * [asciimatics](https://github.com/peterbrittain/asciimatics) - text-based interfaces and animation
 * [colorama](https://github.com/tartley/colorama) - easy color in the terminal
 
+
+--
+
+```
+Whatever you have to say, leave
+The roots on, let them
+Dangle
+
+And the dirt
+
+Just to make clear
+Where they come from.
+```
